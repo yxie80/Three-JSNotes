@@ -1,0 +1,14 @@
+body {
+    background: bisque;
+}
+
+h1 {
+    color: blue;
+    font-size: 64px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+canvas {
+    display: block;
+}
